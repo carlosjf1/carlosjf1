@@ -1,4 +1,4 @@
-# carlos Oliveira
+# Carlos Oliveira
 ## Hi, I'm Carlos Oliveira Web Development student at trybe!
 <div align="center">
   <a href="https://github.com/carlosjf1">
