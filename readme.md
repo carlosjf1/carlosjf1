@@ -1,5 +1,5 @@
 # Carlos Oliveira
-## Hi, I'm Carlos Oliveira Web Development student !
+## Hi, I'm Carlos Oliveira, Web Development student !
 <div align="center">
   <a href="https://github.com/carlosjf1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosjf1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
